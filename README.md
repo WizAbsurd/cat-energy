@@ -11,7 +11,7 @@
 <table>
 <tr>
   <th>
-    <a href="https://wizabsurd.github.io/cat-energy/index.html">Главная страница</a>
+    <a href="https://wizabsurd.github.io/cat-energy/source/index.html">Главная страница</a>
   </th>
 </tr> 
 </table>
